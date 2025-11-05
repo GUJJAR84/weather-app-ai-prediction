@@ -563,8 +563,7 @@ GET https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&uni
 For questions, issues, or suggestions:
 
 - Open an issue on GitHub
-- Email: support@weatheraiforecast.com (example)
-- Documentation: See inline code comments
+- Email: preetchechi100@gmail.com
 
 ## 🎉 Acknowledgments
 
@@ -624,6 +623,6 @@ npm run build
 **Made with ❤️ using React, TypeScript, and TensorFlow.js**
 
 **Version:** 1.0.0  
-**Last Updated:** 2024
+**Last Updated:** 2025
 
 ---
